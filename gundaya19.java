@@ -1,0 +1,12 @@
+import java.util.*;
+
+public class gundaya19
+{
+     public static void problem19() {
+        String[] names = {"Ana", "Ben", "Cara"};
+        int[] grades = {85, 92, 78};
+ 
+        for (int i = 0; i < names.length; i++)
+            System.out.println(names[i] + " = " + grades[i]);
+    }
+ }
