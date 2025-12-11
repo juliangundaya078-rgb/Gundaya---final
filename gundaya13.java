@@ -2,7 +2,7 @@ import java.util.*;
 
 public class gundaya13
 {
-   public static void problem13() {
+   public static void main(String [] args) {
         int[] grades = {80, 65, 90, 72, 88};
         int pass = 0, fail = 0;
  
