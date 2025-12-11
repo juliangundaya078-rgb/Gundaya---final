@@ -2,7 +2,7 @@ import java.util.*;
 
 public class gundaya5
 {
-    public static void problem5() {
+    public static void main(String [] args){
         int[] arr = {2, 4, 9, 7, 1, 10};
         int find = 7;
  
