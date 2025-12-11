@@ -2,7 +2,7 @@ import java.util.*;
 
 public class gundaya9
 {
-      public static void problem9(Scanner in) {
+      public static void main(String [] args) {
         int sum = 0, num;
  
         while (true) {
