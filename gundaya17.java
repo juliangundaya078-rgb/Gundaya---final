@@ -2,7 +2,7 @@ import java.util.*;
 
 public class gundaya17
 {
-      public static void problem17() {
+      public static void main(String [] args){
         int[] arr = {5, 9, 1, 7, 6};
         int highest = Integer.MIN_VALUE;
         int second = Integer.MIN_VALUE;
