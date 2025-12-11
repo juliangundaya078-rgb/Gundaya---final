@@ -2,7 +2,7 @@ import java.util.*;
 
 public class gundaya15
 {
-    public static void problem15(Scanner in) {
+    public static void main(String [] args) {
         int[] arr = new int[5];
  
         for (int i = 0; i < 5; i++) {
