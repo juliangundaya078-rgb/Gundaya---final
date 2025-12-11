@@ -2,7 +2,7 @@ import java.util.*;
 
 public class gundaya10
 {
-    public static void problem10() {
+    public static void main(String [] args){
         int[] arr = {5, 7, 9, 4, 3};
  
         for (int i = 0; i < arr.length; i++) {
