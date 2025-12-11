@@ -2,7 +2,7 @@ import java.util.*;
 
 public class gundaya19
 {
-     public static void problem19() {
+     public static void main(String [] args) {
         String[] names = {"Ana", "Ben", "Cara"};
         int[] grades = {85, 92, 78};
  
