@@ -2,7 +2,7 @@ import java.util.*;
 
 public class gundaya6
 {
-   public static void problem6() {
+   public static void main(String [] args){
         int[] arr = {1, 2, 3, 5, 8, 11};
         int sum = 0, count = 0;
  
