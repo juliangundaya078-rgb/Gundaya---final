@@ -2,7 +2,7 @@ import java.util.*;
 
 public class gundaya12
 {
-       public static void problem12() {
+       public static void main(String [] args) {
         int[] arr = {3, 5, 3, 1, 3, 8};
         int value = 3, count = 0;
  
