@@ -1,7 +1,7 @@
 import java.util.*;
 public class gundaya4
 {
-     public static void problem4() {
+     public static void main(String [] args) {
         int[] arr = {5, 8, 2, 10, -4, 7};
         int min = arr[0], max = arr[0];
  
